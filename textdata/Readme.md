@@ -1,2 +1,0 @@
-# Data Methods
-## Text data
