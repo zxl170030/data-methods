@@ -17,7 +17,7 @@ y = rnorm(x)
 
 plot(x, y)
 
-# Plot better, using a packaged called ggplot2
+# Plot better, using a package called ggplot2
 
 install.packages("ggplot2")
 library(ggplot2)
